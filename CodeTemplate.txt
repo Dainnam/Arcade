@@ -6,9 +6,6 @@ CODE TEMPLATE:
 //Valorant
 //Dain Nam
 =======
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
->>>>>>> c132844e31587ef46d6a2bc3fad7afed6ade4f2b
 
 
 if (team is on a losing streak) {
