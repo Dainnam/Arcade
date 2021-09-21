@@ -7,7 +7,6 @@ CODE TEMPLATE:
 //Dain Nam
 =======
 
-
 if (team is on a losing streak) {
     force the gun so there is a better chance of winning next round;
 } else {
