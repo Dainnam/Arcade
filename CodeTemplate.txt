@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Valorant
+//Dain Nam
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (team is on a losing streak) {
+    force the gun so there is a better chance of winning next round;
 } else {
-    //Add event below
+    save for next round
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (raze ultimate charge point is full) {
+    use it when pushing enemies
 } else {
-    //Add event below
+    save for next round
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (last one alive) {
+    clutch the round
 } else {
-    //Add event below
+    lose the round
 }
 
 
